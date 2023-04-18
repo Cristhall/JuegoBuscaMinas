@@ -6,7 +6,6 @@
 #include<cstdlib>
 #include<conio.h>
 #include<iomanip>
-#include "Juego.h"
 using namespace std;
 class Usuario
 {

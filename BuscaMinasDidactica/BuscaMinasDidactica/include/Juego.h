@@ -5,7 +5,7 @@
 class Juego //Creación de la clase juego
 {
 private:
-	int VIDASTABLERO = 3;
+	int VIDASTABLERO = 3; //Variable fija para las vidas del jugador
 	Tablero tablero; //Creación del objeto tablero
 	int cantidadMinas; //Atributo de las cantidad de minas que se colocaran en el tablero.
 

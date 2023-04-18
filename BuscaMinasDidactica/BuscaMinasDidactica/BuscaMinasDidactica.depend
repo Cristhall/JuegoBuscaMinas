@@ -158,55 +158,54 @@
 	<iomanip>
 	"Juego.h"
 
-1681769765 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\main.cpp
+1681785515 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\main.cpp
 	<iostream>
 	<unistd.h>
 	"Juego.h"
 	"Config.h"
 	"Usuario.h"
 
-1681584696 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\juego.h
+1681786249 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\juego.h
 	"Tablero.h"
 
-1680459418 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\tablero.h
+1681786022 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\tablero.h
 	<iostream>
 	<vector>
 	"Celda.h"
 
-1680459418 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\celda.h
+1681786087 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\celda.h
 
-1681309002 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\config.h
+1681785642 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\config.h
 
-1681770805 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\usuario.h
+1681786938 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\include\usuario.h
 	<iostream>
 	<fstream>
 	<stdlib.h>
 	<cstdlib>
 	<conio.h>
 	<iomanip>
-	"Juego.h"
 
-1680459418 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\celda.cpp
+1681786071 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\celda.cpp
 	"Celda.h"
 	<iostream>
 
-1681309002 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\config.cpp
+1681785587 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\config.cpp
 	<iostream>
 	<unistd.h>
 	"Config.h"
 
-1681776941 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\juego.cpp
+1681786844 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\juego.cpp
 	"Juego.h"
 	<fstream>
 	<unistd.h>
 	"Usuario.h"
 
-1681313818 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\tablero.cpp
+1681785708 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\tablero.cpp
 	"Tablero.h"
 	<sstream>
 	<iostream>
 
-1681784369 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\usuario.cpp
+1681784620 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\usuario.cpp
 	"Usuario.h"
 	"Juego.h"
 	"Config.h"

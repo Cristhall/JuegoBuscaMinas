@@ -170,6 +170,7 @@ void Usuario::modificar()
                 if (opcion == 2){
                     cout<<" Ingrese la contraseña: ";
                     cin>>contrasena;
+                    codigo = contrasena;
                 }
             file1<<std::left<<std::setw(15)<< nombre <<std::left<<std::setw(15)<< contrasena<<std::left<<std::setw(15)<< score << "\n";
             found++;
