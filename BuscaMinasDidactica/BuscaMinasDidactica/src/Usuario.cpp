@@ -59,11 +59,12 @@ void Usuario::iniciarSesion()
                 system("cls");
                 cout<<"\n------------------------------------------------------------------------------------------------------------------------";
                 cout<<"\n---------------------------------------------- BIENVENIDO AL JUEGO BUSCAMINAS ------------------------------------------"<<endl;
-                cout << "\n\tUsuario: " << nombre << endl << endl;
+                cout << "\n\n\t\tUsuario: " << nombre << endl << endl;
                 cout << "\n\t\t1. Iniciar juego" << endl;
                 cout << "\t\t2. Configuracion del juego" << endl;
                 cout << "\t\t3. Modificar usuario" << endl;
-                cout << "\t\t4. salir" << endl;
+                cout << "\t\t4. Regresar a menú principal" << endl;
+                cout << "\t\tIngrese una opción: ";
                 cin >> opcion;
                     switch(opcion)
                     {
@@ -162,6 +163,7 @@ void Usuario::modificar()
                 cout<<"\n Ingrese su nombre de usuario: ";
                 cin>>nombre;
                 file1<<std::left<<std::setw(15)<< nombre <<std::left<<std::setw(15)<< contrasena<<std::left<<std::setw(15)<< score<< "\n";
+                nameUsuario = nombre;
                 found++;
             }
             else{
