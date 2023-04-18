@@ -1,0 +1,4 @@
+vale           1234           15             
+cris           0101           10             
+molina         0202           20             
+michi          0505           5              
