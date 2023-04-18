@@ -158,7 +158,7 @@
 	<iomanip>
 	"Juego.h"
 
-1681785515 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\main.cpp
+1681788785 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\main.cpp
 	<iostream>
 	<unistd.h>
 	"Juego.h"
@@ -205,7 +205,7 @@
 	<sstream>
 	<iostream>
 
-1681784620 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\usuario.cpp
+1681787286 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juegobuscaminas\buscaminasdidactica\buscaminasdidactica\src\usuario.cpp
 	"Usuario.h"
 	"Juego.h"
 	"Config.h"

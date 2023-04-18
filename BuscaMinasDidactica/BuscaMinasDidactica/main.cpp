@@ -6,7 +6,7 @@
 #include "Usuario.h"
 
 using namespace std;
-//xonstantes para los parametros del tablero
+//constantes para los parametros del tablero
 const int FILASTABLERO = 5;
 const int COLUMNASTABLERO = 5;
 const int MINASENTABLERO = 3;

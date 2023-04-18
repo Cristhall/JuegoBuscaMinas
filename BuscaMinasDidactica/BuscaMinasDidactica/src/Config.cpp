@@ -32,7 +32,7 @@ void Config::menuConfiguracion()
         cin >> opciones;
 
         // Segun lo que el usuario seleccione el programa actualizara los datos
-        if (opciones!=6)
+        if (opciones!=5)
         {
             cout << "\n\tIngrese el valor que desea cambiar: ";
             cin >> valorIngresado;
@@ -64,7 +64,7 @@ void Config::menuConfiguracion()
                 break;
             }
         case 5: repetir = false;
-                break;
+                return;
         }
         system("pause");
     } while (repetir);
