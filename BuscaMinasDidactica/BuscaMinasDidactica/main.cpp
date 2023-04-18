@@ -16,7 +16,7 @@ int main()
     Config configuracionJuego(FILASTABLERO, COLUMNASTABLERO, MINASENTABLERO, MODODESARROLLADOR); //creacion de objeto de la clase config y se manda los valores para poder modificar
     Juego juego(Tablero(configuracionJuego.getfilasTablero(), configuracionJuego.getcolumnasTablero(), configuracionJuego.getmodoDesarrolladorTablero()), configuracionJuego.getminasTablero()); //creacion de objeto de la clase juego con parametros que llaman a las funciones de config donde se da la modificacion del tablero.
     Usuario ingresoUsuario; //Creacion de objeto para utilizar funciones de la clase usuario
-    juego.dibujarPortada("portada.txt"); //con el objeto se llama a la funcion juego para imprimir la portada.
+    juego.dibujarPortada("portada2.txt"); //con el objeto se llama a la funcion juego para imprimir la portada.
     int opcion; //variables opcion para el menu principal
 	do //inicio de ciclo do while para trabajar con el menu
     {
