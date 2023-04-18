@@ -43,7 +43,7 @@ int main()
 		ingresoUsuario.insertar(); //si es 2 se llama con el objeto de la clase usuario a la funcion de insertar o crear un usuario.
 		break;
 	case 3:
-		exit(0); //se termina el programa
+		break; //se termina el programa
 	default:
 		cout<<"\n\t\t\t Opcion invalida...Por favor prueba otra vez.."; //indica que la opcion ingresada es invalida
 	}

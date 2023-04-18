@@ -37,4 +37,4 @@ class Tablero
         int minasCercanas(int fila, int columna);//es la funcion que nos permite conocer segun el valor de los numeros al rededor de las casillas de la matriz si una mina esta cerca
 };
 
-#endif // TABLERO_H
+#endif // TABLERO_H

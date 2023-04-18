@@ -10,16 +10,16 @@ using namespace std;
 class Usuario
 {
 	private:
-		string nombre, contrasena;
-		int score;
-		int valScore;
+		string nombre, contrasena; //atributos de la clase usuario
+		int score; //atributo score para la clase usuario
+		int valScore; //variable para poder llamar al score
 	public:
-		void iniciarSesion();
-		void menuSecundario();
-		void insertar();
-		void modificar();
-		void borrar();
-		void cambioScore (int valScore);
+		void iniciarSesion(); //funcion para iniciar sesion
+		void menuSecundario(); //funcion de menu secudario para modificaciones
+		void insertar(); // funcion para insertar o crear un usuario
+		void modificar(); //funcion para modificar al usuario
+		void borrar(); //funcion para eliminar al usuario
+		void cambioScore (int valScore); //funcion que permitira guardar el score
 
 };
 
